@@ -4,7 +4,7 @@ repo: QRGen-upptime
 sites:
   - name: QRGen
     url: https://qr-gen.net
-  - name: QRGen Void Subdomain
+  - name: Void Subdomain
     url: https://void.qr-gen.net
   - name: QRGen Backend API
     url: https://void.qr-gen.net/qr/health
@@ -12,9 +12,9 @@ sites:
 status-website:
   cname: status.qr-gen.net
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: QRGen Status
-  introTitle: "**QRGen Status Page** watches for QRGen service outages, powered by Upptime."
-  introMessage: This page uses **real-time** date pulled from [QRGen](https://qr-gen.net).
+  name: QRGen Status & Outages
+  introTitle: "Provides a canary for outages and upcoming maintenance, powered by Upptime."
+  introMessage: This page uses **real-time** data pulled from [QRGen](https://qr-gen.net).
   navbar:
     - title: Status
       href: /
