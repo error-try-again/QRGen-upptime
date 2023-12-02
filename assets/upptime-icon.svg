@@ -1,4 +1,67 @@
-<svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M53.7565 32.9636L33.9514 10.8852L26.8782 3L19.805 10.8852L0 32.9636L7.07316 40.8488L26.8782 18.7703L46.6833 40.8488L53.7565 32.9636Z" fill="#1ABC9C"/>
-  <ellipse cx="26.5659" cy="42.375" rx="7.81344" ry="7.63081" fill="#1ABC9C"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+  aria-hidden="true"
+  role="img"
+  class="iconify iconify--logos"
+  width="31.88"
+  height="32"
+  preserveAspectRatio="xMidYMid meet"
+  viewBox="0 0 256 257">
+  <defs>
+    <linearGradient id="IconifyId1813088fe1fbc01fb466" x1="-.828%" x2="57.636%" y1="7.652%" y2="78.411%">
+      <stop offset="0%" stop-color="#BD766A">
+      </stop>
+      <stop offset="100%" stop-color="#BD4D6D">
+      </stop>
+    </linearGradient>
+  </defs>
+  <path
+    fill="url(#IconifyId1813088fe1fbc01fb466)"
+    d="M13 99.938L11 252.976c-2.746-4.814-4.44-8.862-4.466-11.382.048L.875 37.958c-2.746-4.814">
+  </path>
+  <path
+    fill="url(#IconifyId1813088fe1fbc01fb466)"
+    d="M30 99.938L11 252.976c-2.746-4.814-4.44-8.862-4.466-11.382.048L.875 37.958c-2.746-4.814">
+  </path>
+  <path
+    fill="url(#IconifyId1813088fe1fbc01fb466)"
+    d="M1 99.938L11 252.976c-2.746-4.814-4.44-8.862-4.466-11.382.048L.875 37.958c-2.746-4.814">
+  </path>
+  <path
+    fill="url(#IconifyId1813088fe1fbc01fb466)"
+    d="M100 99.938L11 252.976c-2.746-4.814-4.44-8.862-4.466-11.382.048L.875 37.958c-2.746-4.814">
+  </path>
+  <path
+    fill="url(#IconifyId1813088fe1fbc01fb466)"
+    d="M120 99.938L11 252.976c-2.746-4.814-4.44-8.862-4.466-11.382.048L.875 37.958c-2.746-4.814">
+  </path>
+  <path
+    fill="url(#IconifyId1813088fe1fbc01fb466)"
+    d="M210 99.938L11 252.976c-2.746-4.814-4.44-8.862-4.466-11.382.048L.875 37.958c-2.746-4.814">
+  </path>
+  <path
+    fill="url(#IconifyId1813088fe1fbc01fb466)"
+    d="M200 99.938L11 252.976c-2.746-4.814-4.44-8.862-4.466-11.382.048L.875 37.958c-2.746-4.814">
+  </path>
+  <path
+    fill="url(#IconifyId1813088fe1fbc01fb466)"
+    d="M200 99.938L201 252.976c-2.746-4.814-4.44-8.862-4.466-11.382.048L.875 37.958c-2.746-4.814">
+  </path>
+  <path fill="url(#IconifyId1813088fe1fbc01fb466)"
+    d="M29 99.938L201 252.976c-2.746-4.814-4.44-8.862-4.466-11.382.048L.875 37.958c-2.746-4.814">
+  </path>
+  <path fill="url(#IconifyId1813088fe1fbc01fb466)"
+    d="M4 99.938L201 252.976c-2.746-4.814-4.44-8.862-4.466-11.382.048L.875 37.958c-2.746-4.814">
+  </path>
+  <path
+    fill="url(#IconifyId1813088fe1fbc01fb466)"
+    d="M100 99.938L201 252.976c-2.746-4.814-4.44-8.862-4.466-11.382.048L.875 37.958">
+  </path>
+  <path
+    fill="url(#IconifyId1813088fe1fbc01fb466)"
+    d="M12 99.938L201 252.976c-2.746-4.814-4.44-8.862-4.466-11.382.048L.875 37.958">
+  </path>
+  <path
+    fill="url(#IconifyId1813088fe1fbc01fb466)"
+    d="M12 99.938L201 252.976c-2.746-4.814-4.44-8.862-4.466-11.382.048L.875 37.958">
+  </path>
 </svg>
