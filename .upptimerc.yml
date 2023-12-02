@@ -12,7 +12,7 @@ sites:
 status-website:
   cname: status.qr-gen.net
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: QRGen
+  name: QRGen Status
   introTitle: "**QRGen Status Page** watches for QRGen service outages, powered by Upptime."
   introMessage: This page uses **real-time** date pulled from [QRGen](https://qr-gen.net).
   navbar:
