@@ -1,24 +1,25 @@
 owner: error-try-again
 repo: QRGen-upptime
-user-agent: error-try-again
-runner: "[self-hosted, linux, ARM64]"
+user-agent: $OWNER
+runner: "[self-hosted]"
+skipTopicsUpdate: true
 
 sites:
   - name: QRGen
     url: https://qr-gen.net
     icon: https://qr-gen.net/vite.svg
     assignees:
-      - error-try-again
+      - $OWNER
   - name: Void Subdomain
     url: https://void.qr-gen.net
     icon: https://qr-gen.net/vite.svg
     assignees:
-      - error-try-again
+      - $OWNER
   - name: QRGen Backend API
     url: https://void.qr-gen.net/qr/health
     icon: https://qr-gen.net/vite.svg
     assignees:
-      - error-try-again
+      - $OWNER
       
 status-website:
   cname: status.qr-gen.net
@@ -31,4 +32,4 @@ status-website:
     - title: Status
       href: /
     - title: Github
-      href: https://github.com/error-try-again/QRGen
+      href: https://github.com/$OWNER/QRGen
