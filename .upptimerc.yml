@@ -24,6 +24,7 @@ sites:
 status-website:
   cname: status.qr-gen.net
   logoUrl: https://github.com/error-try-again/QRGen/assets/19685177/d3bdf77b-62c1-48d6-bbeb-c49236651ebd
+  favicon: https://github.com/error-try-again/QRGen/assets/19685177/d3bdf77b-62c1-48d6-bbeb-c49236651ebd
   faviconSvg: https://github.com/error-try-again/QRGen/assets/19685177/d3bdf77b-62c1-48d6-bbeb-c49236651ebd
   name: QRGen Status & Outages
   introTitle: "A canary for outages and planned server maintenance, powered by Upptime."
