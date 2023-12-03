@@ -4,19 +4,19 @@
     "url": "https://qr-gen.net",
     "icon": "https://qr-gen.net/vite.svg",
     "slug": "qr-gen",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 674,
-    "timeDay": 528,
-    "timeWeek": 674,
-    "timeMonth": 674,
-    "timeYear": 674,
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
+    "time": 638,
+    "timeDay": 474,
+    "timeWeek": 638,
+    "timeMonth": 638,
+    "timeYear": 638,
     "dailyMinutesDown": {
-      "2023-12-03": 0
+      "2023-12-03": 14
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://void.qr-gen.net",
     "icon": "https://qr-gen.net/vite.svg",
     "slug": "void-subdomain",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 607,
-    "timeDay": 520,
-    "timeWeek": 607,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 572,
+    "timeDay": 479,
+    "timeWeek": 572,
+    "timeMonth": 572,
+    "timeYear": 572,
     "dailyMinutesDown": {
-      "2023-12-03": 0
+      "2023-12-03": 14
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://void.qr-gen.net/qr/health",
     "icon": "https://qr-gen.net/vite.svg",
     "slug": "qr-gen-backend-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 120,
-    "timeWeek": 155,
-    "timeMonth": 155,
-    "timeYear": 155,
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
+    "time": 148,
+    "timeDay": 109,
+    "timeWeek": 148,
+    "timeMonth": 148,
+    "timeYear": 148,
     "dailyMinutesDown": {
-      "2023-12-03": 0
+      "2023-12-03": 14
     }
   }
 ]
