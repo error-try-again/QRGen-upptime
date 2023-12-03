@@ -1,5 +1,7 @@
 owner: error-try-again
 repo: QRGen-upptime
+user-agent: error-try-again
+runner: "[self-hosted, linux, ARM64]"
 
 sites:
   - name: QRGen
@@ -7,23 +9,17 @@ sites:
     icon: https://qr-gen.net/vite.svg
     assignees:
       - error-try-again
-    runner: "[self-hosted, linux, ARM64]"
-    user-agent: error-try-again
   - name: Void Subdomain
     url: https://void.qr-gen.net
     icon: https://qr-gen.net/vite.svg
     assignees:
       - error-try-again
-    runner: "[self-hosted, linux, ARM64]"
-    user-agent: error-try-again
   - name: QRGen Backend API
     url: https://void.qr-gen.net/qr/health
     icon: https://qr-gen.net/vite.svg
     assignees:
       - error-try-again
-    runner: "[self-hosted, linux, ARM64]"
-    user-agent: error-try-again
-
+      
 status-website:
   cname: status.qr-gen.net
   logoUrl: https://github.com/error-try-again/QRGen/assets/19685177/d3bdf77b-62c1-48d6-bbeb-c49236651ebd
