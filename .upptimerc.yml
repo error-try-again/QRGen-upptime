@@ -4,14 +4,24 @@ repo: QRGen-upptime
 sites:
   - name: QRGen
     url: https://qr-gen.net
+    icon: https://qr-gen.net/vite.svg
+    assignees:
+      - error-try-again
   - name: Void Subdomain
     url: https://void.qr-gen.net
+    icon: https://qr-gen.net/vite.svg
+    assignees:
+      - error-try-again
   - name: QRGen Backend API
     url: https://void.qr-gen.net/qr/health
+    icon: https://qr-gen.net/vite.svg
+    assignees:
+      - error-try-again
 
 status-website:
   cname: status.qr-gen.net
   logoUrl: https://github.com/error-try-again/QRGen/assets/19685177/d3bdf77b-62c1-48d6-bbeb-c49236651ebd
+  faviconSvg: https://github.com/error-try-again/QRGen/assets/19685177/d3bdf77b-62c1-48d6-bbeb-c49236651ebd
   name: QRGen Status & Outages
   introTitle: "A canary for outages and planned server maintenance, powered by Upptime."
   introMessage: This page uses **real-time** data pulled from [QRGen](https://qr-gen.net).
