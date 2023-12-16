@@ -5,16 +5,16 @@
     "icon": "https://qr-gen.net/vite.svg",
     "slug": "qr-gen",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 336,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 329,
     "timeDay": 78,
     "timeWeek": 79,
-    "timeMonth": 336,
-    "timeYear": 336,
+    "timeMonth": 329,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2023-12-05": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 270,
-    "timeDay": 79,
+    "time": 264,
+    "timeDay": 76,
     "timeWeek": 79,
-    "timeMonth": 270,
-    "timeYear": 270,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2023-12-05": 21
     }
@@ -45,16 +45,16 @@
     "icon": "https://qr-gen.net/vite.svg",
     "slug": "qr-gen-backend-api",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 80,
-    "timeDay": 22,
-    "timeWeek": 21,
-    "timeMonth": 80,
-    "timeYear": 80,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 78,
+    "timeDay": 18,
+    "timeWeek": 22,
+    "timeMonth": 78,
+    "timeYear": 78,
     "dailyMinutesDown": {
       "2023-12-05": 21
     }
