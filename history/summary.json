@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 329,
-    "timeDay": 78,
+    "time": 323,
+    "timeDay": 81,
     "timeWeek": 79,
-    "timeMonth": 329,
-    "timeYear": 329,
+    "timeMonth": 323,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2023-12-05": 21
     }
@@ -25,16 +25,16 @@
     "icon": "https://qr-gen.net/vite.svg",
     "slug": "void-subdomain",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 264,
-    "timeDay": 76,
-    "timeWeek": 79,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 258,
+    "timeDay": 77,
+    "timeWeek": 78,
+    "timeMonth": 258,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2023-12-05": 21
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 78,
-    "timeDay": 18,
-    "timeWeek": 22,
-    "timeMonth": 78,
-    "timeYear": 78,
+    "time": 76,
+    "timeDay": 19,
+    "timeWeek": 19,
+    "timeMonth": 76,
+    "timeYear": 76,
     "dailyMinutesDown": {
       "2023-12-05": 21
     }
