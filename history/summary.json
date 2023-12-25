@@ -4,9 +4,9 @@
     "url": "https://qr-gen.net",
     "icon": "https://qr-gen.net/vite.svg",
     "slug": "qr-gen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 282,
     "timeYear": 282,
     "dailyMinutesDown": {
+      "2023-12-25": 0,
       "2023-12-05": 21
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://void.qr-gen.net",
     "icon": "https://qr-gen.net/vite.svg",
     "slug": "void-subdomain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -36,6 +37,7 @@
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
+      "2023-12-25": 0,
       "2023-12-05": 21
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://void.qr-gen.net/qr/health",
     "icon": "https://qr-gen.net/vite.svg",
     "slug": "qr-gen-backend-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -56,6 +58,7 @@
     "timeMonth": 67,
     "timeYear": 67,
     "dailyMinutesDown": {
+      "2023-12-25": 0,
       "2023-12-05": 21
     }
   }
