@@ -1,7 +1,7 @@
 url: https://void.qr-gen.net/qr/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-11T09:49:53.471Z
+status: up
+code: 200
+responseTime: 35
+lastUpdated: 2024-01-11T11:09:16.806Z
 startTime: 2023-12-02T06:55:56.944Z
 generator: Upptime <https://github.com/upptime/upptime>
